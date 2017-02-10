@@ -1,0 +1,3 @@
+Privacy
+
+The most important value of application "Voice Remote for Samsung Tv's" is your privacy, and that's why application do not store anything you say or type or in fact any other data about you. Application doesn't share it 3rd parties, other than Google for the speech-to-text engine which is used for voice recognition to controll the TV. Your speech is sent from the app on your device directly to Google's speech-to-text engines for transcription, without even going through our servers. Note that Google's privacy policies may apply.
