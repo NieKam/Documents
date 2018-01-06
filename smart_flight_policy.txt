@@ -1,0 +1,3 @@
+Privacy
+
+The most important value of application "Smart FLight" is your privacy, and that's why application does not store your location in fact any other data about you. Application doesn't share it 3rd partie. All computation is done offline on the device.
